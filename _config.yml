@@ -77,12 +77,12 @@ author:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      Url: "https://github.com/calgromi"
+      url: "https://github.com/calgromi"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
     - label: "Threema"
-      icon: "fas fa-fw fa-commenting"
+      icon: "fab fa-fw fa-comment"
       url: "https://threema.id/PA3WKB9U"
 
 footer:
