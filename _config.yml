@@ -82,7 +82,7 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
     - label: "Threema"
-      icon: "fas fa-fw fa-comment-alt-dots"
+      icon: "fas fa-fw fa-comment"
       url: "https://threema.id/PA3WKB9U"
 
 footer:
